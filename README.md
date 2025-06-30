@@ -4,14 +4,6 @@ This project uses machine learning to predict the **dominant color** in an image
 
 ---
 
-## 🚀 Demo
-
-Upload an image, and the app will predict the dominant color.
-
-![App Demo](path-to-screenshot-or-GIF)
-
----
-
 ## 📂 Color Categories
 
 - 🖤 Black  
@@ -44,6 +36,6 @@ Upload an image, and the app will predict the dominant color.
 
 ---
 
-## 📁 Folder Structure
+
 
 
