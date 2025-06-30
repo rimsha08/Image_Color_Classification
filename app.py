@@ -2,7 +2,7 @@ import streamlit as st
 import cv2
 import numpy as np
 import pickle
-from PIL import Image
+from PIL import Image 
 
 # Load trained SVM model
 with open('color_classification.pkl', 'rb') as model_file:
